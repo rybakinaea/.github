@@ -48,18 +48,18 @@ HR Prakticum Career разработан с использованием сле�
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 - [JavaScript] (v.1.8) - целевой язык программирования frontend
+- [TypeScript] (v.5.0) - расширение для JavaScript
 - [React] (v.18.2) - библиотека JavaScript для разработки пользовательских интерфейсов (UI) веб-приложений
 - [React Router] (v.6.15) - библиотека React для маршрутизации страниц
-- [Vite] (v.4.4) - инструмент сборки JavaScript-приложений
+- [Vite] (v.4.0) - инструмент сборки JavaScript-приложений
 - [Redux] (v.8.1) - библиотека  управления состоянием JavaScript приложений
-- [SCSS] - метаязык написания CSS-кода
+- [Yup] (v.1.3) - библиотека для валидации объектов JavaScript
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ___
 
@@ -155,8 +155,9 @@ ___
 [Docker]: <https://www.docker.com/>
 
 [JavaScript]: <https://www.javascript.com/>
+[TypeScript]: <https://www.typescriptlang.org/>
 [React]: <https://react.dev/>
 [React Router]: <https://reactrouter.com/en/main/>
 [Vite]: <https://vitejs.dev/>
 [Redux]: <https://redux.js.org/>
-[SCSS]: <https://sass-lang.com/>
+[Yup]: <https://github.com/jquense/yup>
