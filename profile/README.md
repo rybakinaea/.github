@@ -139,7 +139,9 @@ ___
 
 ### КОМАНДА UX/UI
 
+🎨 [Анастасия]
 
+[Анастасия]: <https://behance.net/Anastasia_Kremenets>
 [Кирилл]: <https://github.com/TheSuncatcher222/>
 
 
