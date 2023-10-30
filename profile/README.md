@@ -133,11 +133,11 @@ ___
 
 ### Product Manager
 
-
+🙋‍♀️ [Екатерина]
 
 ### КОМАНДА FRONTEND
 
-
+🦹‍♀️ [Максим] 
 
 ### КОМАНДА BACKEND
 
@@ -147,8 +147,10 @@ ___
 
 🎨 [Анастасия]
 
-[Анастасия]: <https://behance.net/Anastasia_Kremenets>
+[Екатерина]: <https://t.me/Katti_po/>
+[Максим]: <https://github.com/maxtalanov>
 [Кирилл]: <https://github.com/TheSuncatcher222/>
+[Анастасия]: <https://behance.net/Anastasia_Kremenets>
 
 
 [Python]: <https://www.python.org/>
