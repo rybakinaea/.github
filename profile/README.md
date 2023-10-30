@@ -109,10 +109,16 @@ cd ..
 docker-compose up --build
 ```
 
-✅ Проверить доступность проекта на `localhost:8000`
+✅ Проверить доступность проекта на
 
 ```
 http://localhost:8000/
+```
+
+✅ Документация доступно на
+
+```
+http://localhost:8000/api/v1/schema/swagger-ui/
 ```
 
 ___
