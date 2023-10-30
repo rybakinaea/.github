@@ -115,7 +115,7 @@ docker-compose up --build
 http://localhost:8000/
 ```
 
-✅ Документация доступно на
+✅ Документация доступна на
 
 ```
 http://localhost:8000/api/v1/schema/swagger-ui/
